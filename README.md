@@ -20,9 +20,8 @@ A console-based Java application (IntelliJ IDEA project) that models a simplifie
 
 ## 📂 Project Structure
 ```
-SRS_TaibaCCSE/
-└── com/
-    └── company/
+    SRS_TaibaCCSE/
+    └── 
         ├── Main.java               # Entry point — menus and program flow
         ├── Staff.java               # Base class for all staff members
         ├── FacultyMember.java       # Faculty member details (extends Staff)
